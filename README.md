@@ -3,11 +3,6 @@
 <p data-sourcepos="5:1-5:33" dir="auto">Start the server : <code>cd serveur</code> +  <code>npm start</code></p>
 <p data-sourcepos="7:1-7:46" dir="auto">Start the front : <code>cd client</code> + <code>npm start</code></p>
 <hr data-sourcepos="9:1-10:0">
-
-<h2 dir="auto"><a id="user-content--artificial-intelligence-" class="anchor" aria-hidden="true" href="#-artificial-intelligence-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Artificial Intelligence <a href="#welcome-badges-4-readmemd-profile"><g-emoji class="g-emoji" alias="top" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f51d.png">🔝</g-emoji></a></h2>
-<h3>
- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></h3>
  
 <li data-sourcepos="13:1-13:57">Put your cluster information in <code>/config/db.js</code></li>
 <li data-sourcepos="14:1-18:91">Create the file <code>.env</code> in <code>/config/</code> in the following data
